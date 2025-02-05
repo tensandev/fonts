@@ -1,6 +1,0 @@
-# New
-
-# Upgrade
-ofl/ibmplexsans # https://github.com/google/fonts/pull/8824
-
-# Metadata / Description / License
